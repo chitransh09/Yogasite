@@ -4,6 +4,8 @@ The word “Yoga” essentially means, “that which brings you to reality”. L
 
 Yoga means to move towards an experiential reality where one knows the ultimate nature of the existence, the way it is made.
 
+Strong muscles do more than look good. They also protect us from conditions like arthritis and back pain, and help prevent falls in elderly people. And when you build strength through yoga, you balance it with flexibility. If you just went to the gym and lifted weights, you might build strength at the expense of flexibility.
+
 This Website is made for the users to gain knowledge towards eternal peace.
 
 This is base website based on Yoga using html css. Try to write the content in the center of video.
