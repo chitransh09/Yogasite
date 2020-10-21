@@ -28,6 +28,8 @@ nav ul li{
 
 nav ul li:hover{
     background-color: #f39d1a;
+    opacity: 30%;
+    color: #DF72B6
 
 }
 nav ul li a {
